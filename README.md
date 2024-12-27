@@ -4,6 +4,10 @@
 
 - [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
 
+### Standard
+
+- [文档规范](Standard.md)
+
 ### TODO
 
 - [Chapter 10 Optimization](https://dev.mysql.com/doc/refman/8.0/en/optimization.html)
