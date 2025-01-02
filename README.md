@@ -4,6 +4,10 @@
 
 - [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
 
+### 章节目录
+
+- [第 10 章 优化](src/10_优化/10.00_优化.md)
+
 ### Standard
 
 - [文档规范](Standard.md)
